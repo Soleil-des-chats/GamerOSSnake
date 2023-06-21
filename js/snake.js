@@ -35,7 +35,7 @@ $(document).ready(function() {
 				.attr('id', 'canvas')
                 .attr('width', l)
                 .attr('height', h)
-				.text("Quel dommage ! Votre navigateur internet ne supporte pas la technologie utilisée pour le jeu.")
+				.text("Une erreur est survenu!")
                 .css({
                     'border' : '2px solid #DF691A',
                     'border-radius' : '20px',

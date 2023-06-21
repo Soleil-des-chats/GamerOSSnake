@@ -1,8 +1,3 @@
-/**
-* @author   Romain Semler ©2017
-* @name     snake.js
-* @version  1.0
-*/
 
 $(document).ready(function() {
 
